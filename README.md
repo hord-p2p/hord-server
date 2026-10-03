@@ -10,7 +10,6 @@ a client can create a network. another client can join the network by connecting
 
 a network is a group of clients connected to same server. server can host multiple networks.
 
-much like torrent but safer.
 
 server only connects clients. file chunking, encryption and distribution is done by the clients
 
