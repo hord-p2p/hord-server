@@ -4,7 +4,7 @@
 
 a p2p file/data sharing project, HORD consists of 2 main components for now, a client and a server.
 
-client can generates public and private key. public key is used to identify the client, private key is used to sign file chunks.
+client can generates public and private key. public key is used to identify the client.
 
 a client can create a network. another client can join the network by connecting to same server and sharing the public key to network host client.
 
